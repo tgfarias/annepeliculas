@@ -1,0 +1,140 @@
+*ERROR* 	2014/11/19 - 21:12:33: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 20:42:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 20:42:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:12:46: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 20:42:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 20:42:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:18:23: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 20:48:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 20:48:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:30:55: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 21:00:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 21:00:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:34:40: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 21:04:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 21:04:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:38:40: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 21:08:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 21:08:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:56:23: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 21:26:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 21:26:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 21:58:31: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 21:28:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 21:28:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 22:27:40: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 21:57:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 21:57:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 22:40:06: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 22:10:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 22:10:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 22:47:55: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 22:17:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 22:17:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 22:57:59: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 22:27:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 22:27:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:35:18: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:05:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:05:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:47:39: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:17:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:17:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:47:56: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:17:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:17:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:48:08: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:18:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:18:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:48:19: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:18:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:18:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:48:35: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:18:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:18:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:58:56: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:28:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:28:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
+*ERROR* 	2014/11/19 - 23:59:29: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `date_add` > '2014-11-19 23:29:00'
+						 AND id_shop IN (1) 
+					ORDER BY ' at line 3<br /><br /><pre>SELECT `id_connections` FROM `fc_connections`
+					WHERE ip_address = 
+						AND `date_add` > '2014-11-19 23:29:00'
+						 AND id_shop IN (1) 
+					ORDER BY `date_add` DESC LIMIT 1</pre> at line 635 in file classes/db/Db.php
