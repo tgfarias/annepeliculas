@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', 'mysql.annepeliculas.com.br');
+define('_DB_NAME_', 'annepeliculas');
+define('_DB_USER_', 'annepeliculas');
+define('_DB_PASSWD_', 'mcl19888');
+define('_DB_PREFIX_', 'fc_');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', '9a6JZPRqItPjmcZL6eYNyYvbU2sT862YirUwAGgFS3GjRUtXZWtFZ2oC');
+define('_COOKIE_IV_', '5K5o4cUm');
+define('_PS_CREATION_DATE_', '2014-11-05');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', 'A0qaU3dn6sINJPI8AHCPXGdBmtOWfzey');
+define('_RIJNDAEL_IV_', 'k0QNGDaz8wyfvQP2zT77uA==');
